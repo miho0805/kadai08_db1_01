@@ -13,7 +13,7 @@
 
 ## ③DEMO
 
-デプロイしている場合はURLを記入（任意）
+[デプロイしている場合はURLを記入（任意）](https://ada2nd-16-suzan.sakura.ne.jp/bbs-yt/index.php)
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
